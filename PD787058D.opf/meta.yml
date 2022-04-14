@@ -1,0 +1,30 @@
+id: PD787058D
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA5488
+  instance_id: http://purl.bdrc.io/resource/IE5488
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད།
+  alt_title:
+    en:
+    - the encyclopedia of knowledge
+  author: http://purl.bdrc.io/resource/P264
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    ca824469a1dd4a27b01ed6d677e1ef72:
+      title: ༄༅།་།དེ་ལྟར་བསམ་པ་ལས་བྱུང་བའི་ཤེས་རབ་ཀྱིས་ཆོས་སྤྱི་དང་རང་གི་མཚན་ཉིད་དང་ཟབ་མོའི་ལྟ་བའི་གནས་ལ་སྒྲོ་འདོགས་ཆོད་ཅིང་ངེས་པ་རྙེད་པ་ན།ས
+      volume_number: 1
+      base_file: UT5488_001_0008.txt
+      reference: http://purl.bdrc.io/resource/VLF5825883BD9322E0
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W5488
+  - http://purl.bdrc.io/resource/MW5488
+created_at: '2021-12-31T08:26:55.931883'
+last_modified_at: '2021-12-31T08:26:55.931890'
